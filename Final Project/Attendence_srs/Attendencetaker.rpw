@@ -1,0 +1,137 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 22;
+				- m_nTop = 29;
+				- m_nRight = 601;
+				- m_nBottom = 603;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID d3fadcf0-5384-47cb-a742-2c0d268aad23;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 550 519 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 110;
+				- m_nTop = 145;
+				- m_nRight = 689;
+				- m_nBottom = 688;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "attendancelog.sbs";
+				- _subsystem = "attendancelog";
+				- _class = "Attendence";
+				- _name = "StatechartDiagram";
+				- _id = GUID 8d3300e0-a7b2-4f2f-a2b6-784effc55a7c;
+			}
+			- _UpLeft = 100 0 ;
+			- _DownRight = 650 488 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 44;
+				- m_nTop = 58;
+				- m_nRight = 623;
+				- m_nBottom = 601;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "attendancelog.sbs";
+				- _subsystem = "attendancelog";
+				- _class = "";
+				- _name = "Attendencelog";
+				- _id = GUID e05aec7d-d1bc-4bc5-9150-69a5bf98a33b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 550 488 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 132;
+				- m_nTop = 174;
+				- m_nRight = 711;
+				- m_nBottom = 717;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "attendancelog.sbs";
+				- _subsystem = "attendancelog";
+				- _class = "";
+				- _name = "Log";
+				- _id = GUID ebf7f25c-e841-4b92-a712-df0cbeb7a719;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 982 871 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+	}
+	- _fullName = "C:\\Documents and Settings\\205112086\\Desktop\\Attendencetaker\\Attendencetaker";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

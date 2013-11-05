@@ -1,0 +1,12 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 5;
+	- value = "Attendencetaker.rpy" ""
+	"Attendencetaker_rpy\\Default.sbs" "Default"
+	"Attendencetaker_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Attendencetaker_rpy\\attendancelog.sbs" "attendancelog"
+	"Projects.rpl" ""
+	
+}
+
